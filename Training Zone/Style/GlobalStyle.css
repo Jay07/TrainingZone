@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+#Container {
+	background-color: #666;
+	margin: auto;
+	width: 950px;
+}
+#Banner{
+	background-color: #666;
+	width: 100%;
+	float: right;
+	font-family: "Comic Sans MS", cursive;
+}
+#NavBar{
+	background-color: #FFF;
+	width: 90%;
+	float: left;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+#MainContent{
+	background-color: #FFF;
+	width: 100%;
+	float: left;
+}
+#Footer{
+	background-color: #FFF;
+	width: 100%;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	text-align: center;
+	font-size: 9px;
+}
+
+
+.intro {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: italic;
+}
